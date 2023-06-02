@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    text-align: center;
+    margin-top: 100px;
+    transition: background-color 1s ease;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .container button{
+    margin:5%
+  }
